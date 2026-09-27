@@ -163,4 +163,5 @@ __pycache__/
 *.pyc
 .env
 venv/
+.vs/
 .pytest_cache/
